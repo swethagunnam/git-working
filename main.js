@@ -1,3 +1,4 @@
+var x = 10;
+var y = 20;
 var p = 40;
-var q = 60;
 var r = 80;
