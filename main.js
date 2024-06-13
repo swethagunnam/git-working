@@ -5,3 +5,8 @@ var r = 80;
 var z = 100;
 var q = 60;
 var i = 120;
+
+var h=90;
+varj=30;
+
+console.log("hai");
